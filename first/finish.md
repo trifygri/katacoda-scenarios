@@ -1,1 +1,1 @@
-This is finish text
+This is new finish text
